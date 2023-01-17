@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "linkFoto": "https://m.media-amazon.com/images/I/91G5ndi8yFL._SL1500_.jpg",
+      "titulo": "Nevermind",
+	  "seguidores": 1235245,
+      "grupo": "Nirvana",
+      "canciones": [
+          "Smells Like Teen Spirit",
+          "In Bloom",
+          "Come as You Are",
+          "Breed",
+          "Lithium",
+          "Polly",
+          "Territorial Pissings",
+          "Drain You",
+          "Lounge Act",
+          "Stay Away",
+          "On a Plain",
+          "Something in the Way",
+          "Endless, Nameless"
+      ]
+    },
+    {
+      "linkFoto": "https://muzikalia.com/wp-content/uploads/2020/09/black-sabbath-paranoid-cab.jpg",
+      "titulo": "Paranoid",
+	  "seguidores": 5000000,
+      "grupo": "Black Sabbath",
+      "canciones": [
+        "War pigs",
+        "Paranoid",
+        "Planet Caravan",
+        "Iron Man",
+        "Electric Funeral",
+        "Hand of Doom",
+        "Rat Salad",
+        "Fairies wear boots"
+      ]
+    },
+    {
+      "linkFoto": "https://rockfm-cdnmed.agilecontent.com/resources/jpg/1/5/1658991085551.jpg",
+      "titulo": "Ride the lightning",
+	  "seguidores": 200000,
+      "grupo": "Metallica",
+      "canciones": [
+        "Fight Fire with fire",
+        "Ride the Lightning",
+        "Planet For Whom the bell tolls",
+        "Fade to Black",
+        "Trapped under Ice",
+        "Escape",
+        "Creeping Death",
+        "The call of ktulo"
+      ]
+
+    },
+    {
+      "linkFoto": "https://static.qobuz.com/images/covers/63/29/0603497922963_600.jpg",
+      "titulo": "Rumours",
+	  "seguidores": 312412,
+      "grupo": "FleetWood Mac",
+      "canciones": [
+        "Second Hand News",
+        "Dreams",
+        "Never going back again",
+        "Don't Stop",
+        "Go your own way",
+        "Songbird",
+        "The Chain",
+        "You make loving fun",
+        "I Don´t want to know",
+        "Oh Daddy",
+        "Gold Dust Woman"
+      ]
+    },
+    {
+      "linkFoto": "https://www.rockcamp.es/blog/wp-content/uploads/2017/04/Led-Zeppelin-Blog-2.jpg",
+      "titulo": "Led Zeppelin I",
+	  "seguidores": 9876451,
+      "grupo": "Led Zeppelin",
+      "canciones": [
+        "Good Times Bad times",
+        "Babe, I'm gonna leave you",
+        "You Shook me",
+        "Dazed and confused",
+        "Your time is gonna come",
+        "Black mountain side",
+        "Communication breakdown",
+        "I can't quit you babe",
+        "How many more times"
+      ]
+    },
+    {
+      "linkFoto": "https://www.todorock.com/wp-content/uploads/2020/09/system-of-a-down-toxicity-hd.jpg",
+      "titulo": "Toxicity",
+	  "seguidores": 9128412,
+      "grupo": "System of a down",
+      "canciones": [
+        "Prision song",
+        "Needles",
+        "Deer Dance",
+        "jet pilot",
+        "X",
+        "Chop Suey",
+        "Bounce",
+        "Forest",
+        "ATWA",
+        "Science",
+        "Shimmy",
+        "Toxicity",
+        "Psyco",
+        "Aerials",
+        "Arto"
+      ]
+    },
+    {
+      "linkFoto": "https://www.kissfm.es/wp-content/uploads/2021/02/61gleX16ObL._SL1200_.jpg",
+      "titulo": "Brothers in Arms",
+	  "seguidores": 10000001,
+      "grupo": "Dire Straits",
+      "canciones": [
+        "So far away",
+        "Money for nothing",
+        "Walk of life",
+        "Your latest trick",
+        "Why worry?",
+        "Ride across the river",
+        "The man's too strong",
+        "One world",
+        "Brothers in arms"
+      ]
+    },
+    {
+      "linkFoto": "https://i.discogs.com/ZsLctuPUa2YJGieThOtWKM90eQ56EaI8SG2wbH9Tdlo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE3/OTItMTUzNzAyMzc1/Mi02NjAwLmpwZWc.jpeg",
+      "titulo": "Highway to Hell",
+	  "seguidores": 12351341,
+      "grupo": "AC/DC",
+      "canciones": [
+        "Highway to hell",
+        "Girls got Rhythm",
+        "Walk all over you",
+        "Touch too much",
+        "Beating around the bush",
+        "Shot down in flames",
+        "Get it hot",
+        "If you want blood (you've got it)",
+        "Love hungry man",
+        "Night prowler"
+      ]
+    },
+    {
+      "linkFoto": "https://1.bp.blogspot.com/-WTN-MqDvnKA/XqEyotXrJxI/AAAAAAAACC4/6U9OxkXAaeAlYWpwJpABy7DtGcSY0UfNwCLcBGAsYHQ/s1600/extremoduro-la-ley-innata-1.jpg",
+      "titulo": "La ley innata",
+	  "seguidores": 500000,
+      "grupo": "Extremoduro",
+      "canciones": [
+        "Dulce introduccion al caos",
+        "Primer movimiento: el sueño",
+        "Segundo movimiento: Lo de fuera",
+        "Tercer movimiento: lo de dentro",
+        "Cuarto movimiento: la realidad",
+        "Coda flamenca (otra realidad)"
+      ]
+    },
+    {
+      "linkFoto": "https://upload.wikimedia.org/wikipedia/en/7/7c/Iron_Maiden_%28album%29_cover.jpg",
+      "titulo": "Iron Maiden",
+	  "seguidores": 15000123,
+      "grupo": "Iron Maiden",
+      "canciones": [
+        "Prowler",
+        "Remember Tomorrow",
+        "Running free",
+        "Transylvania",
+        "Phantom of the opera",
+        "Strange world",
+        "Charlotte the Harlot",
+        "Iron Maiden"
+      ]
+    },
+    {
+      "linkFoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/TheClashLondonCallingalbumcover.jpg/220px-TheClashLondonCallingalbumcover.jpg",
+      "titulo": "London Calling",
+	  "seguidores": 75124125,
+      "grupo": "The Clash",
+      "canciones": [
+        "London Calling",
+        "Brand new Cadillac",
+        "Jimmy Jazz",
+        "Hateful",
+        "Rudie can't fail",
+        "Spanish bombs",
+        "The right profile",
+        "Lost in the supermarket",
+        "Clampdown",
+        "The guns of brixton",
+        "Wrong 'Em Boyo",
+        "Death or Glory",
+        "Koka Kola",
+        "The card Cheat",
+        "Lover's Rock",
+        "Four horsemen",
+        "I'm not down",
+        "Revolution rock",
+        "Train in a vain (stand by me)"
+      ]
+    },
+    {
+      "linkFoto": "https://m.media-amazon.com/images/I/31lvRTC5OQL.jpg",
+      "titulo": "AM",
+      "seguidores": 412312,
+      "grupo": "Artick monkeys",
+      "canciones": [
+        "Do I Wanna Know",
+        "R U Mine",
+        "One for the road",
+        "Arabella",
+        "I want it all",
+        "NO .1 Party anthem",
+        "Mad Sounds",
+        "Fire Side",
+        "Why'd you only call me when you're high",
+        "Snap out of it",
+        "Knee Socks",
+        "",
+        "I wanna be yours"
+      ]
+    }
+  ]
+}
